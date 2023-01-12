@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+}
+a {
+    text-decoration: none;
+}
+.mg {
+    margin: 0 50px;
+}
+.list__reset {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.header__link-logo {
+    display: flex;
+}
+
+.header__logo {
+    width: 220px;
+    height: 80px;
+    
+}
+.text__logo {
+    width: 220px;
+    height: 80px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.header__text-one {
+    display: block;
+    font-weight: 700px;
+    font-size: 40px;
+    color: #cf1b1b; 
+    text-decoration: underline;
+}
+.header__text-two {
+    font-weight: 700;
+    font-size: 20px;
+    color: #cf1b1b;
+}
+.phone__link {
+    margin-right: 50px;
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+}
+.consult {
+    margin-right: 50px;
+    font-family: 'Montserrat',Arial,sans-serif;
+    color: #383838;
+    
+    font-weight: 700;
+    font-size: 20px;
+    
+    text-align: center;
+ 
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.social {
+    display: flex;
+    margin-right: 50px;
+}
+.header__list {
+    display: flex;
+    
+}
+.header__right {
+    display: flex;
+    padding-top: 40px;
+  
+
+}
+.header__nav {
+    padding-top: 40px;
+    
+   
+}
+.header__link {
+    margin-right: 50px;
+    
+    font-size: 20px;
+    font-family: 'Montserrat',Arial,sans-serif;
+    font-weight: 700;
+    color: black;
+}
+.social__ling-tg {
+    margin-right: 20px;
+}
